@@ -12,7 +12,7 @@
 
 ## 🌐 Demonstração
 
-👉 **Acesse a demo do Quartech online**: [Clique aqui para ver o site!](https://github.com/eusam04/Quartech)
+👉 **Acesse a demo do Quartech online**: [Clique aqui para ver o site!](https://eusam04.github.io/Quartech/)
 
 ---
 
