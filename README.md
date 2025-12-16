@@ -2,17 +2,17 @@
   <h1>🚀 Quartech</h1>
   <p>Um site dinâmico em HTML para apresentar seus serviços e portfólio.</p>
   <br />
-  <img src="./imagens/readme/logo quartech" alt="Logo Quartech" width="200" />
+  <img src="./imagens/readme/logo quartech.png" alt="Logo Quartech" width="300" />
   <br />
   <h3>Veja uma demonstração ao vivo do site abaixo!</h3>
-  <img src="./imagens/readme/gif quartech.gif" alt="Demonstração do Site" width="100%" />
+  <img src="./imagens/readme/gif quartech.gif" alt="Demonstração do Site" width="80%" />
 </div>
 
 ---
 
 ## 🌐 Demonstração
 
-👉 **Acesse a demo do Quartech online**: [Clique aqui para ver o site!](https://seulink.github.io/Quartech)
+👉 **Acesse a demo do Quartech online**: [Clique aqui para ver o site!](https://github.com/eusam04/Quartech)
 
 ---
 
