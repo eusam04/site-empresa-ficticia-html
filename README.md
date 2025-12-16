@@ -5,7 +5,7 @@
   <img src="./imagens/readme/logo quartech.png" alt="Logo Quartech" width="300" />
   <br />
   <h3>Veja uma demonstração ao vivo do site abaixo!</h3>
-  <img src="./imagens/readme/gif quartech.gif" alt="Demonstração do Site" width="80%" />
+  <img src="./imagens/readme/quartech previa home.mp4" alt="Demonstração do Site" width="80%" />
 </div>
 
 ---
