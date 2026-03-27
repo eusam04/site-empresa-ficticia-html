@@ -20,7 +20,7 @@
 <div align="center">
   <p>Prévia visual da página inicial do projeto:</p>
 
-  <img src="./imagens/readme/gif-quartech.gif" alt="Demonstração do site" width="60%" />
+  <img src="./imagens/readme/gif_quartech.gif" alt="Demonstração do site" width="60%" />
 </div>
 
 ---
