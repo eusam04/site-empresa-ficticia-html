@@ -1,42 +1,66 @@
 <div align="center">
-  <h1>🚀 Quartech</h1>
-  <p>Um site dinâmico em HTML para apresentar seus serviços e portfólio.</p>
-  <br />
-  <img src="./imagens/readme/logo-quartech.png" alt="Logo Quartech" width="400" />
+  <h1>🚀 Site Institucional de Empresa Fictícia</h1>
+
+  <p>
+    Projeto desenvolvido como atividade acadêmica da disciplina de Front-end,
+    com o objetivo de praticar a estruturação de páginas web utilizando HTML
+    e a organização de conteúdo em um site institucional.
+  </p>
+
   <br />
 
----
-## 🌐 Demonstração
-  <h3>Abaixo está uma prévia visual da página inicial do site Quartech.</h3>
-  <img src="./imagens/readme/gif-quartech.gif" alt="Demonstração do Site" width="50%" />
+  <img src="./imagens/readme/logo-quartech.png" alt="Logo do projeto" width="300"/>
+
 </div>
 
 ---
+
+## 🌐 Demonstração
+
+<div align="center">
+  <p>Prévia visual da página inicial do projeto:</p>
+
+  <img src="./imagens/readme/gif-quartech.gif" alt="Demonstração do site" width="60%" />
+</div>
+
+---
+
 <p align="center">
   <a href="https://eusam04.github.io/Quartech/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Acessar%20o%20Site-Quartech-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20o%20Site-Online-blue?style=for-the-badge" />
   </a>
 </p>
 
 ---
+
 ## ✨ Sobre o Projeto
 
-O **Quartech** é um site institucional desenvolvido com **HTML, CSS e JavaScript**, criado com o objetivo de apresentar serviços, equipe e portfólio de forma clara, moderna e acessível.
+Este projeto consiste no desenvolvimento de um site institucional para uma empresa fictícia, com o objetivo de simular um ambiente real de apresentação de serviços e informações.
 
-O projeto foi pensado para simular um site real de uma empresa de tecnologia, focando em:
-- organização visual
-- navegação intuitiva
-- apresentação profissional de conteúdo
+Durante o desenvolvimento, foram trabalhados conceitos como:
 
-Além disso, o Quartech também faz parte do meu processo de aprendizado e evolução como estudante da área de tecnologia.
+- estruturação de páginas HTML
+- organização de conteúdo
+- criação de múltiplas páginas interligadas
+- construção de navegação entre seções
+
+O projeto faz parte do meu processo de aprendizado como estudante de tecnologia, contribuindo para o desenvolvimento de habilidades em front-end.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML
+
+---
 
 ## 📁 Estrutura do Projeto
 
 ```text
 Quartech/
-├── imagens/         # Imagens usadas no site
+├── imagens/         # Imagens utilizadas no site
 ├── index.html       # Página inicial
-├── sobre-nos.html   # Sobre Nós
+├── sobre-nos.html   # Sobre nós
 ├── portfolio.html   # Portfólio
 ├── equipe.html      # Equipe
 └── contato.html     # Formulário de contato
