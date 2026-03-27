@@ -4,6 +4,8 @@
   <br />
   <img src="./imagens/readme/logo-quartech.png" alt="Logo Quartech" width="400" />
   <br />
+
+---
 ## 🌐 Demonstração
   <h3>Abaixo está uma prévia visual da página inicial do site Quartech.</h3>
   <img src="./imagens/readme/gif-quartech.gif" alt="Demonstração do Site" width="85%" />
